@@ -1,0 +1,40 @@
+{
+    "Tasks": [
+        {
+            "user": "info.softclik@gmail.com",
+            "name": "Softclik Task1",
+            "ID": "softclikTask1254",
+            "assignedTo": "info.softclik@gmail.com",
+            "assignFB": false,
+            "dueDate": "Nov 25,2019",
+            "note": "Note for the first task in softclik",
+            "created": "Nov 24, 2019",
+            "completed": false,
+            "steps": [
+                {
+                    "name": "First Step",
+                    "ID": "Firststep1548",
+                    "completed": false,
+                    "assignedTo": "info.softclik@gmail.com",
+                    "assignFB": false,
+                    "dueDate": "Dec 25,2019",
+                    "note": "Desvription for task step 1",
+                    "created": "Dec 24,2019"
+                }
+            ]
+        }
+    ],
+    "Users": [
+        {
+            "name": "user name",
+            "email": "user email",
+            "members": [
+                {
+                    "name": "member name",
+                    "email": "member email",
+                    "category": "admin"
+                }
+            ]
+        }
+    ]
+}
